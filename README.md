@@ -27,6 +27,8 @@ python manage.py createsuperuser
 Start the application:
 python manage.py runserver
 
+Navigate to http://127.0.0.1:8000/ to explore
+
 # Disclaimer:
 Prices of car, fuel and housing are just for example and may not be accurate.
 Certain formulas may not be applicable depending on country of residence.
