@@ -5,8 +5,7 @@ SimpliPlan is a Financial Application with three different main functions namely
 2. Calculate Car Affordability
 3. Calculate Housing Affordability
 
-Basic Front-End was designed with HTML5, CSS and JavaScript using BootStrap
-Backend was implemented with Django
+Basic Front-End was designed with HTML5, CSS and JavaScript using BootStrap. Backend was implemented with Django
 
 
 # To Start:
