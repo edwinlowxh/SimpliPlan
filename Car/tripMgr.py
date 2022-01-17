@@ -3,7 +3,7 @@ import smtplib
 from .models import *
 
 # API key
-api_key = "AIzaSyBQAyuGhTFC-cfUcJxTyNaNPZLHI_3l8wI"
+# api_key = "--API KEY --"
 
 class TripMgr:
     def __init__(self):
